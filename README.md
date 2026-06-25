@@ -18,42 +18,6 @@ My main interests include:
 * Computer Vision
 * Data Analysis
 
-Alongside AI, I also develop myself in software engineering areas including web technologies, mobile applications and database design.
-
----
-
-## Technologies & Tools
-
-### Artificial Intelligence & Data Science
-
-Python • NLP • Transformers • Scikit-learn • Pandas • NumPy • CNN • Deep Learning • OpenCV • Matplotlib
-
-### Web Development
-
-React • JavaScript • HTML • CSS • Bootstrap
-
-### Mobile Development
-
-Android • Kotlin
-
-### Database
-
-PostgreSQL • SQL • ER Modeling • Trigger • View • Stored Procedure
-
-### Development Tools
-
-Git • GitHub • OOP
-
----
-
-## Featured Interests
-
-🧠 NLP & Language Models
-📊 Data Processing & Model Training
-🌐 Web Development
-📱 Mobile Applications
-🗄️ Database Design
-
 ---
 
 ## Current Goal
