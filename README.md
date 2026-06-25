@@ -1,7 +1,9 @@
 # Hi there, I'm Hulusi Demir 👋
 
 🎓 Computer Engineering Student
+
 🤖 Interested in Artificial Intelligence, Natural Language Processing (NLP) and Machine Learning
+
 💻 Also experienced in Web Development, Mobile Development and Database Systems
 
 ---
