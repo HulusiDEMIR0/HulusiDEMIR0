@@ -6,7 +6,7 @@
 
 💻 Also experienced in Web Development, Mobile Development and Database Systems
 
----
+
 
 ## About Me
 
@@ -20,7 +20,7 @@ My main interests include:
 * Computer Vision
 * Data Analysis
 
----
+
 
 ## Current Goal
 
